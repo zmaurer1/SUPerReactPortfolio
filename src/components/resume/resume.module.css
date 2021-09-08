@@ -1,0 +1,14 @@
+.resumeContent {
+    background-color:#001E6C;
+    padding-top: 5rem;
+    justify-content: center;
+    padding-left: 40%;
+    color: #FFAA4C;
+    font-size: 26px;
+    padding-bottom: 100px;
+}
+
+.resumeContent a {
+    color: #FFAA4C;
+    font-size: 22px;
+}

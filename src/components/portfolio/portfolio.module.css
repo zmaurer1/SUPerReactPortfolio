@@ -1,0 +1,10 @@
+.portfolioHeader {
+    background-color:#001E6C;
+    padding-top: 5rem;
+    align-items: center;
+}
+
+.portfolioHeader h1 {
+    margin-left: 40%;
+    color: #FFAA4C;
+}

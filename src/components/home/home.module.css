@@ -1,0 +1,28 @@
+.home {
+    display: flex;
+    background-color:#001E6C;
+    padding-top: 5rem;
+    justify-content: center;
+    align-items: center;
+    padding:3rem;
+}
+
+.home h2,
+.home p {
+    color: #FFAA4C;
+    font-size: 50px;
+    padding:2rem;
+}
+
+.home p {
+    font-size: 20px;
+    justify-content: flex-start;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.headShot {
+    height: auto;
+    width: 35%;
+}
